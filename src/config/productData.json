@@ -1,0 +1,11 @@
+{
+    
+    "minCost": 1,
+    "maxCost": 10000,
+    "minCalories": 1,
+    "minWeight": 1,
+    "minId": 100000,
+    "maxId": 999999,
+    "typeProduct": ["Drinks", "Food", "Snaks"]
+    
+}
